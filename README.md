@@ -1,4 +1,4 @@
-# ehc
+# ehc (Environment Health Check)
 
 https://github.com/jrmreis/ehc/blob/main/SumAvailability/Sele%C3%A7%C3%A3o_046.png?raw=true
 
